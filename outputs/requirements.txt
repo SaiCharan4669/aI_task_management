@@ -1,0 +1,8 @@
+gradio
+joblib
+numpy
+scikit-learn
+pandas
+xgboost
+pandas 
+matplolib
