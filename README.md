@@ -1,4 +1,4 @@
-Gradio   : http://127.0.0.1:7860
+Gradio   :  http://127.0.0.1:7860
 
 # AI Task Management System
 Automates task categorization, priority prediction, and team workload balancing for project management.
